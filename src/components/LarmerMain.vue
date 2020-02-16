@@ -13,7 +13,7 @@ export default {
   name: "LarmerMain",
   data() {
     return {
-      currentColor: String
+      currentColor: 'green'
     } 
   },
   props: { 
